@@ -5,7 +5,7 @@
 - **CCID:** `jagdipsi`
 
 ## References and Resources
-`N/A`
+`Gemini for understanding of concepts. Questions were of the nature of "What modifier can you use to select items from a list". No Code from Gemini was used.`
 
 ## Verbal Collaboration
 `N/A` 
